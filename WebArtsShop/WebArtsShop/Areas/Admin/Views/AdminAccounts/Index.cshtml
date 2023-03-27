@@ -1,0 +1,95 @@
+﻿@model IEnumerable<WebArtsShop.Models.Account>
+
+@{
+    ViewData["Title"] = "Danh sách tài khoản quản trị";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Danh sách tài khoản quản trị</h1>
+
+<div>
+    @*<a asp-action="Create">Tạo mới</a>*@
+    <select id="idrole" name="idrole" asp-items="ViewBag.QuyenTruyCap">
+        <option value ="0" disabled selected>Chọn Quyền truy cập</option>
+    </select>
+    <select id="idstatus" name="idstatus" asp-items="ViewBag.lsTrangThai">
+        <option value="0" disabled selected>Chọn Quyền trạng thái</option>
+    </select>
+</div>
+    
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                ID
+            </th>
+            <th>
+                Họ và tên
+            </th>
+            <th>
+                Email
+            </th>
+            <th>
+                Số điện thoại
+            </th>
+            <th>
+                Quyền truy cập
+            </th>
+            <th>
+                Lần đăng nhập cuối
+            </th>
+            <th>
+                Trạng thái
+            </th>
+            
+            <th>#</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null)
+        {
+            foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @item.AccountId
+                    </td>
+                    <td>
+                        @item.FullName
+                    </td>
+                    <td>
+                        @item.Email
+                    </td>
+                    <td>
+                        @item.Phone
+                    </td>
+                    <td>
+                        @item.Role.Description
+                    </td>
+                    <td>
+                        @item.LastLogin
+                    </td>
+                    <td>
+                        @if (item.Active)
+                        {
+                            <div>Đang hoạt động</div>
+                        }
+                        else
+                        {
+                            <div>Ngừng hoạt động</div>
+                        }
+                    </td>
+
+                    <td>
+                        <a class="btn btn-primary" asp-area="Admin" asp-controller="AdminAccounts" asp-action="Details" asp-route-id="@item.AccountId">Chi tiết</a>
+                        <a class="btn btn-secondary" asp-area="Admin" asp-controller="AdminAccounts" asp-action="Edit" asp-route-id="@item.AccountId">Sửa</a>
+                        <a class="btn btn-success" asp-area="Admin" asp-controller="AdminAccounts" asp-action="Delete" asp-route-id="@item.AccountId">Xóa</a>
+                    </td>
+                </tr>
+            }
+        }
+        
+    </tbody>
+</table>
