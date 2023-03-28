@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FPT Aptech\\ky 3\\Project Arts Shop\\WebArtsShop\\WebArtsShop\\WebArtsShop.csproj": {}
+    "C:\\Users\\hi\\IdeaProjects\\Group-5---Laundry\\WebArtsShop\\WebArtsShop\\WebArtsShop.csproj": {}
   },
   "projects": {
-    "D:\\FPT Aptech\\ky 3\\Project Arts Shop\\WebArtsShop\\WebArtsShop\\WebArtsShop.csproj": {
+    "C:\\Users\\hi\\IdeaProjects\\Group-5---Laundry\\WebArtsShop\\WebArtsShop\\WebArtsShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT Aptech\\ky 3\\Project Arts Shop\\WebArtsShop\\WebArtsShop\\WebArtsShop.csproj",
+        "projectUniqueName": "C:\\Users\\hi\\IdeaProjects\\Group-5---Laundry\\WebArtsShop\\WebArtsShop\\WebArtsShop.csproj",
         "projectName": "WebArtsShop",
-        "projectPath": "D:\\FPT Aptech\\ky 3\\Project Arts Shop\\WebArtsShop\\WebArtsShop\\WebArtsShop.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT Aptech\\ky 3\\Project Arts Shop\\WebArtsShop\\WebArtsShop\\obj\\",
+        "projectPath": "C:\\Users\\hi\\IdeaProjects\\Group-5---Laundry\\WebArtsShop\\WebArtsShop\\WebArtsShop.csproj",
+        "packagesPath": "C:\\Users\\hi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hi\\IdeaProjects\\Group-5---Laundry\\WebArtsShop\\WebArtsShop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -94,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

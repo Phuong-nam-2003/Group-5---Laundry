@@ -9,209 +9,209 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebArtsShop
 build_property.RootNamespace = WebArtsShop
-build_property.ProjectDir = D:\FPT Aptech\ky 3\Project Arts Shop\WebArtsShop\WebArtsShop\
+build_property.ProjectDir = C:\Users\hi\IdeaProjects\Group-5---Laundry\WebArtsShop\WebArtsShop\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = D:\FPT Aptech\ky 3\Project Arts Shop\WebArtsShop\WebArtsShop
+build_property.MSBuildProjectDirectory = C:\Users\hi\IdeaProjects\Group-5---Laundry\WebArtsShop\WebArtsShop
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminAccounts/Create.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminAccounts/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5BY2NvdW50c1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminAccounts/Delete.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminAccounts/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5BY2NvdW50c1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminAccounts/Details.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminAccounts/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5BY2NvdW50c1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminAccounts/Edit.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminAccounts/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5BY2NvdW50c1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminAccounts/Index.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminAccounts/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5BY2NvdW50c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminCategories/Create.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminCategories/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5DYXRlZ29yaWVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminCategories/Delete.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminCategories/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5DYXRlZ29yaWVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminCategories/Details.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminCategories/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5DYXRlZ29yaWVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminCategories/Edit.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminCategories/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5DYXRlZ29yaWVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminCategories/Index.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminCategories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5DYXRlZ29yaWVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminCustomers/Create.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminCustomers/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5DdXN0b21lcnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminCustomers/Delete.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminCustomers/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5DdXN0b21lcnNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminCustomers/Details.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminCustomers/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5DdXN0b21lcnNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminCustomers/Edit.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminCustomers/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5DdXN0b21lcnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminCustomers/Index.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminCustomers/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5DdXN0b21lcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminProducts/Create.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminProducts/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Qcm9kdWN0c1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminProducts/Delete.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminProducts/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Qcm9kdWN0c1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminProducts/Details.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminProducts/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Qcm9kdWN0c1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminProducts/Edit.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminProducts/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Qcm9kdWN0c1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminProducts/Index.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminProducts/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Qcm9kdWN0c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminRoles/Create.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminRoles/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Sb2xlc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminRoles/Delete.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminRoles/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Sb2xlc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminRoles/Details.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminRoles/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Sb2xlc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminRoles/Edit.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminRoles/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Sb2xlc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminRoles/Index.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Areas/Admin/Views/AdminRoles/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Sb2xlc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Areas/Admin/Views/Home/Index.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Areas/Admin/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Areas/Admin/Views/Shared/Error.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Areas/Admin/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Areas/Admin/Views/Shared/_SidebarscrollPartialView.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Areas/Admin/Views/Shared/_SidebarscrollPartialView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9TaWRlYmFyc2Nyb2xsUGFydGlhbFZpZXcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Areas/Admin/Views/_ViewImports.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Areas/Admin/Views/_ViewStart.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Views/AdminCustomers/Create.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Views/AdminCustomers/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5DdXN0b21lcnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Views/AdminCustomers/Delete.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Views/AdminCustomers/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5DdXN0b21lcnNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Views/AdminCustomers/Details.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Views/AdminCustomers/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5DdXN0b21lcnNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Views/AdminCustomers/Edit.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Views/AdminCustomers/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5DdXN0b21lcnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Views/AdminCustomers/Index.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Views/AdminCustomers/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5DdXN0b21lcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Views/Home/About.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Views/Home/Contact.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Views/Home/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Views/Home/Index.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Views/Home/Privacy.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Views/Product/Details.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Views/Product/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Views/Product/Index.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Views/Shared/Error.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Views/Shared/_FooterPartialView.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Views/Shared/_FooterPartialView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXJQYXJ0aWFsVmlldy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Views/Shared/_HeaderPartialView.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Views/Shared/_HeaderPartialView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXJQYXJ0aWFsVmlldy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Views/_ViewImports.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Views/_ViewStart.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-chcmgiwzzs
 
-[D:/FPT Aptech/ky 3/Project Arts Shop/WebArtsShop/WebArtsShop/Views/Shared/_Layout.cshtml]
+[C:/Users/hi/IdeaProjects/Group-5---Laundry/WebArtsShop/WebArtsShop/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-bob57qkge4
