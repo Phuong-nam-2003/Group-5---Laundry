@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FPT Aptech\\ky 3\\Project Arts Shop\\WebArtsShop\\WebArtsShop\\WebArtsShop.csproj": {}
+    "D:\\FPT Aptech\\ky 3\\DemoProject\\Group-5---Laundry\\WebArtsShop\\WebArtsShop\\WebArtsShop.csproj": {}
   },
   "projects": {
-    "D:\\FPT Aptech\\ky 3\\Project Arts Shop\\WebArtsShop\\WebArtsShop\\WebArtsShop.csproj": {
+    "D:\\FPT Aptech\\ky 3\\DemoProject\\Group-5---Laundry\\WebArtsShop\\WebArtsShop\\WebArtsShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT Aptech\\ky 3\\Project Arts Shop\\WebArtsShop\\WebArtsShop\\WebArtsShop.csproj",
+        "projectUniqueName": "D:\\FPT Aptech\\ky 3\\DemoProject\\Group-5---Laundry\\WebArtsShop\\WebArtsShop\\WebArtsShop.csproj",
         "projectName": "WebArtsShop",
-        "projectPath": "D:\\FPT Aptech\\ky 3\\Project Arts Shop\\WebArtsShop\\WebArtsShop\\WebArtsShop.csproj",
+        "projectPath": "D:\\FPT Aptech\\ky 3\\DemoProject\\Group-5---Laundry\\WebArtsShop\\WebArtsShop\\WebArtsShop.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT Aptech\\ky 3\\Project Arts Shop\\WebArtsShop\\WebArtsShop\\obj\\",
+        "outputPath": "D:\\FPT Aptech\\ky 3\\DemoProject\\Group-5---Laundry\\WebArtsShop\\WebArtsShop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

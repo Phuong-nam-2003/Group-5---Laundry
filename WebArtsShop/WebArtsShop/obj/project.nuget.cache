@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SFQR/SvzNE9NjFWHaGyKIHmH/s1OW6u4RrSTG5P53JXmmCUyuF0JbfNY3Pukne36upC9SRJ0rp21fQ6bx1m2vA==",
+  "dgSpecHash": "Eu4YVtDU/oY0UsoChM8f/dYvfsMespxZXgTc4ztBT2DRGZ7DlUsEFqg2V97pXF8NCrBJt8Bts2/157e52ziWnQ==",
   "success": true,
-  "projectFilePath": "D:\\FPT Aptech\\ky 3\\Project Arts Shop\\WebArtsShop\\WebArtsShop\\WebArtsShop.csproj",
+  "projectFilePath": "D:\\FPT Aptech\\ky 3\\DemoProject\\Group-5---Laundry\\WebArtsShop\\WebArtsShop\\WebArtsShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\aspnetcorehero.toastnotification\\1.1.0\\aspnetcorehero.toastnotification.1.1.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
