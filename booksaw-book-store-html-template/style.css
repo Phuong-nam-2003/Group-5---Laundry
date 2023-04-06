@@ -115,6 +115,15 @@ button, input, select, textarea {
   line-height: inherit;
   outline: 0;
 }
+.cart button {
+  margin-top: 12px;
+  height: 30px;
+  padding: 0 20px;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  background-color: tomato;
+}
 figure {
   margin: 0;
 }
