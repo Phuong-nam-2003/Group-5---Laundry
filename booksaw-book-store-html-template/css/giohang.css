@@ -1,0 +1,94 @@
+
+/*.............cart....................*/
+.cart{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    padding-top: 30px;
+    margin-bottom: 43%;
+}
+.cart h2 {
+    margin-bottom: 20px;
+}
+.cart table {
+    width: 100%;
+}
+.cart table thead tr th:first-child {
+    text-align: left;
+}
+.cart table tr td {
+    border-bottom: 1px solid #ddd;
+    padding: 20px 0;
+}
+.cart table thead tr th:last-child {
+    text-align: right;
+}
+.cart table tbody tr td:last-child {
+    text-align: right;
+}
+
+
+/*-------------------*/
+.cart button {
+    margin-top: 12px;
+    height: 30px;
+    padding: 0 20px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: tomato;
+}
+ul {
+    display: flex;
+}
+.row {
+    display: flex;
+}
+.menu li {
+    display: inline-block;
+    margin: 0 10px;
+}
+.logo {
+    color: black;
+    font-size: 40px;
+    font-family: Pacifico-Regular;
+    width: 50%;
+}
+.giorhang {
+    align-self: center;
+    margin-left: 11%;
+}
+.h-container.container {
+    max-width: 70%;
+    margin: auto;
+}
+header.header {
+    background: greenyellow;
+    padding: 10px 0;
+}
+
+.menu {
+    align-self: center;
+}
+.footer-widget {
+    background: bisque;
+    text-align: center;
+    margin-top: 7px;
+}
+
+form {
+    margin-inline: 26%;
+}
+@media screen {
+    .product-item {
+        padding-bottom: 66px;
+    }
+    .logo {
+        width: 36%;
+    }
+    .cart{
+        margin-bottom: 76%;
+
+    }
+
+}

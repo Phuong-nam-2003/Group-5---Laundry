@@ -1,0 +1,102 @@
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css">
+    <link rel="stylesheet" href="css/login.css">
+
+
+</head>
+<body>
+<div class="main-logo">
+    <a href="index.html"><img class="anh-logo" src="images/main-logo.png" width="60%" alt="logo"></a>
+</div>
+<div class="col-md-2">
+
+    <div class="anh-img">
+        <img src="images/main-banner1.jpg" width="100%">
+    </div>
+    <div id="wrapper">
+        <form action="" id="form-login" method="post" enctype="multipart/form-data">
+            <h1 class="form-heading">User Login </h1>
+            <h3 style="color: red">
+                <p style="color: red">
+                    <!--?php echo $error; ?-->
+                </p>
+            </h3>
+            <div class="from-group">
+                <i class="far fa-user"></i>
+                <input type="text" class="form-input" name="username" placeholder="Username " id="username">
+            </div>
+
+            <div class="from-group">
+                <i class="fas fa-key"></i>
+                <input type="password" class="form-input" name="password" placeholder="Password" id="password">
+                <div id="eye">
+                    <i class="far fa-eye"></i>
+                </div>
+            </div>
+
+            <input type="checkbox" name="remember" value="1"> Remember me
+            <input type="submit" name="login" value="Login" class="from-submit" onclick="check()">
+            <div>
+                <h3>Don't have account? <a href="dk.php">register here</a></h3>
+            </div>
+
+        </form>
+
+    </div>
+
+</div>
+<script>
+    var input = document.getElenemtById('username').value;
+    function check(){
+        if(input == '' || input== null){
+            document.getElementById('')
+        }
+    }
+
+</script>
+
+<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+<script src="../js/login.js"></script>
+
+
+<script>
+    (function() {
+        var ws = new WebSocket('ws://' + window.location.host +
+            '/jb-server-page?reloadMode=RELOAD_ON_SAVE&'+
+            'referrer=' + encodeURIComponent(window.location.pathname));
+        ws.onmessage = function (msg) {
+            if (msg.data === 'reload') {
+                window.location.reload();
+            }
+            if (msg.data.startsWith('update-css ')) {
+                var messageId = msg.data.substring(11);
+                var links = document.getElementsByTagName('link');
+                for (var i = 0; i < links.length; i++) {
+                    var link = links[i];
+                    if (link.rel !== 'stylesheet') continue;
+                    var clonedLink = link.cloneNode(true);
+                    var newHref = link.href.replace(/(&|\?)jbUpdateLinksId=\d+/, "$1jbUpdateLinksId=" + messageId);
+                    if (newHref !== link.href) {
+                        clonedLink.href = newHref;
+                    }
+                    else {
+                        var indexOfQuest = newHref.indexOf('?');
+                        if (indexOfQuest >= 0) {
+                            // to support ?foo#hash
+                            clonedLink.href = newHref.substring(0, indexOfQuest + 1) + 'jbUpdateLinksId=' + messageId + '&' +
+                                newHref.substring(indexOfQuest + 1);
+                        }
+                        else {
+                            clonedLink.href += '?' + 'jbUpdateLinksId=' + messageId;
+                        }
+                    }
+                    link.replaceWith(clonedLink);
+                }
+            }
+        };
+    })();
+</script></body></html>

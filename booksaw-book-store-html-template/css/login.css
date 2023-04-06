@@ -1,0 +1,73 @@
+body {
+    background-color: #F3F2EC;
+    font-family: sans-serif;
+}
+
+#wrapper{
+
+    min-height: 60vh;
+    display:  flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 14%;
+}
+#form-login{
+    max-width: 400px;
+    background: white;
+
+    padding: 30px 30px 40px;
+
+}
+.form-heading{
+    font-size: 25px;
+    color: black;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.from-group{
+    border-bottom: 1px solid black;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    display: flex;
+}
+.from-group i {
+    color: black;
+    font-size: 14px;
+    padding-top: 5px;
+    padding-right: 10px;
+}
+
+
+.form-input{
+    background: transparent;
+    border: 0;
+    outline: 0;
+    color: black;
+    flex-grow: 1;
+}
+.form-input::placeholder{
+    color: black;
+}
+#eye i {
+    padding-right: 0%;
+    cursor: pointer;
+}
+.from-submit{
+    background: transparent;
+
+
+    width: 100%;
+    text-transform: uppercase;
+    padding: 6px 10px;
+}
+.from-submit:hover{
+    border: 1px solid #54a0ff;
+}
+img.anh-logo {
+    width: 16%;
+}
+.col-md-2 {
+    display: flex;
+    margin-left: 17%;
+    margin-top: 4%;
+}
